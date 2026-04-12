@@ -16,7 +16,7 @@ export default function Contact() {
           </div>
           <h4 className="text-gray-800 text-lg font-inter font-extralight mt-4">{t("contact_address")}</h4>
 
-          <p className="text-sm  mt-2">{t("your-adress")}</p>
+          <p className="text-sm  mt-2">{t("your_address")}</p>
         </div>
         <div className="flex lg:w-[18vw] flex-col items-center justify-center rounded-lg w-full h-44 p-4 text-center mx-auto ">
           <div className="bg-customC rounded-full p-4">
