@@ -1,5 +1,6 @@
 export const translations = {
   fr: {
+    your_address: "Avenue Jamel Abdennasser, Cité Ibn El Jazzar , Kairouan Sud, Kairouan 3199",
     description_test: "Description",
     modifier_test: "Modifier",
     supprimer_test: "Supprimer",
@@ -127,7 +128,7 @@ update: "Mettre à jour",
   en: {
 
 
-
+your_address: "Jamel Abdennasser Avenue, Ibn El Jazzar District, South Kairouan, Kairouan 3199",
         description_test: "Description",
     modifier_test: "Edit",
     supprimer_test: "Delete",
@@ -260,7 +261,7 @@ update: "Update",
   it: {
 
 
-
+    your_address: "Viale Jamel Abdennasser, Quartiere Ibn El Jazzar, Kairouan Sud, Kairouan 3199",
 
     description_test: "Descrizione",
     modifier_test: "Modifica",
@@ -385,7 +386,7 @@ update: "Update",
   },
   ar: {
 
-        
+    your_address: "شارع جمال عبد الناصر، حي ابن الجزار، القيروان الجنوبية، القيروان 3199",
     description_test: "الوصف",
     modifier_test: "تعديل",
     supprimer_test: "حذف",
