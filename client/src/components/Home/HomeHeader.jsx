@@ -19,7 +19,7 @@ export default function HomeHeader() {
   </div>
 
   {/* Headline */}
-  <div className="absolute inset-0 flex flex-col items-center justify-bottom z-40 space-y-2 text-center px-4">
+  <div className="absolute inset-0 flex flex-col items-center justify-end z-40 space-y-2 text-center px-4">
   <h1 className="text-white sm:text-5xl text-3xl p-1 font-bold">
     {t("hook")}
   </h1>
