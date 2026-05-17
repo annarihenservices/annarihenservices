@@ -4,7 +4,7 @@ import useTranslate from "../../hooks/useTranslate";
 export default function HomeHeader() {
   const { t } = useTranslate();
   return (
-    <div className="relative h-[80vh] font-sans rounded-xl mx-2 overflow-hidden">
+    <div className="relative h-[80vh] font-sans rounded-xl mx-2 overflow-hidden pb-4">
 
   {/* Video */}
   <img
