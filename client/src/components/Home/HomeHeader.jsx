@@ -13,7 +13,10 @@ export default function HomeHeader() {
   />
 
   {/* Dark overlay */}
-  <div className="absolute inset-0 bg-black/20 z-10"></div>
+    
+  <div className="absolute inset-0 bg-black/20 z-10">
+  <div className="h-[80%]"></div>
+  </div>
 
   {/* Headline */}
   <div className="absolute inset-0 flex flex-col items-center justify-center z-40 space-y-10 text-center px-4">
