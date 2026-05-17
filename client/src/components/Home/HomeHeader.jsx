@@ -20,13 +20,16 @@ export default function HomeHeader() {
 
   {/* Headline */}
   <div className="absolute inset-0 flex flex-col items-center justify-end z-40 space-y-2 text-center px-4">
-  <h1 className="text-white sm:text-5xl text-3xl p-1 font-bold">
+  <h2 className="text-white sm:text-4xl text-2xl p-1 font-bold">
     {t("hook")}
-  </h1>
+  </h2>
+  <h3 className="text-white sm:text-3xl text-xl p-1 font-bold">
+    {t("hook-1")}
+  </h3>
 
   <a
     href="/Consultation"
-    className="bg-red hover:bg-green text-white text-lg font-medium px-6 py-3 rounded-2xl transition-colors"
+    className="bg-red hover:bg-green text-white text-lg font-medium px-4 py-2 rounded-2xl transition-colors"
   >
     {t("Consultation")}
   </a>
