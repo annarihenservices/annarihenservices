@@ -7,12 +7,8 @@ export default function HomeHeader() {
     <div className="relative h-[80vh] font-sans rounded-xl mx-2 overflow-hidden">
 
   {/* Video */}
-  <video
-    src={'https://res.cloudinary.com/dbeqyl7n6/video/upload/v1775671230/Waving-flag-of-Italy_bymbes.mp4'}
-    autoPlay
-    muted
-    playsInline
-    loop
+  <img
+    src={'https://res.cloudinary.com/dbeqyl7n6/image/upload/v1779026271/font-1_wacrzc.jpg'}
     className="absolute inset-0 w-full h-full object-cover z-0"
   />
 
