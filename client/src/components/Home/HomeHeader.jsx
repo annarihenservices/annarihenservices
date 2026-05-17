@@ -24,7 +24,7 @@ export default function HomeHeader() {
     {t("hook")}
   </h2>
   <h3 className="text-white sm:text-3xl text-xl p-1 font-bold">
-    {t("hook-1")}
+    {t("hook_1")}
   </h3>
 
   <a
