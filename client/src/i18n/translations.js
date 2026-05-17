@@ -35,7 +35,8 @@ user_exists: "Utilisateur existe ! Redirection vers la page admin",
     success_message: "Message envoyé !",
     error_message: "Message non envoyé, essayez plus tard !",
 
-    hook: "Un accompagnement fiable pour vos projets d’études et de mobilité",
+    hook: "Votre passerelle de confiance vers le succès international",
+    hook-1: "Votre guide complet pour les services de mobilité, le soutien administratif et l'intégration linguistique en Italie.",
 
 
       home_about_title: "Qui sommes-nous ?",
@@ -158,7 +159,8 @@ your_address: "Jamel Abdennasser Avenue, Ibn El Jazzar District, South Kairouan,
     success_message: "Message sent!",
     error_message: "Message not sent, please try again later!",
 
-    hook: "Reliable support for your study and mobility projects",
+    hook: "Your trusted bridge to international success",
+    hook-1: "Your comprehensive guide to mobility services, administrative support, and language integration in Italy.",
 
 
       home_about_title: "Who are we?",
@@ -286,7 +288,8 @@ update: "Update",
     success_message: "Messaggio inviato!",
     error_message: "Messaggio non inviato, riprova più tardi!",
 
-    hook: "Un supporto affidabile per i tuoi progetti di studio e mobilità",
+    hook: "Il tuo ponte di fiducia verso il successo internazionale",
+    hook-1: "La tua guida completa per i servizi di mobilità, il supporto amministrativo e l'integrazione linguistica in Italia.",
 
 
       home_about_title: "Chi siamo?",
@@ -412,7 +415,8 @@ update: "Update",
     success_message: "تم إرسال الرسالة!",
     error_message: "فشل إرسال الرسالة، حاول لاحقاً!",
 
-    hook: "دعم موثوق لمشاريعك الدراسية والتقنية",
+    hook: "جسرك الموثوق نحو النجاح الدولي",
+    hook-1: "دليلك الشامل لخدمات التنقل،الدعم الإداري،و الإندماج اللغوي في إيطاليا.",
 
 
       home_about_title: "من نحن؟",
